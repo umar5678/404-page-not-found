@@ -3,4 +3,4 @@
 Let's see 
 How the github is going
 I am practicing make and upload a repository
-And want to deploy my frontend rojects on github pages
+And want to deploy my frontend projects on github pages
